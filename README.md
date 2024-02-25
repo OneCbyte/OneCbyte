@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<a href="https://discordapp.com/users/645568087990599683/"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZkYXBwNDY2b2duMnVudHV5cmlnbnA0dmdlb2o4YW8zaTdzZW8xYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Fo5y4K3GD3RYijvsCS/giphy.gif" width="45" align="center"></a>
+	<a href="https://discordapp.com/users/645568087990599683/"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRsMnd6aWR1anQzaHE0OGphZDQ4Y3Z5aDZtNW03YmdtYjVpYXBxNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/G9iNGjpV4sD4O6o778/giphy.gif" width="35" align="center"></a>
 	<a href="https://t.me/milkiwaaays"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y0NzAzbGNwMHVibDRmdmwxN3l1dnFlczF6am9iaXp4cXRxZ2FuaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="28" align="center"></a>
 </div>
 <div align="center"><img src="https://img.shields.io/github/watchers/OneCbyte/OneCbyte?style=plastic"></div>
@@ -20,7 +20,7 @@ I am a developer from Russia and I am developing server-side web applications. :
 * :seedling: I make web applications using Flask & Django
 * :watch: In my free time I enjoy developing interfaces to solve everyday problems and developing games
 * I am also interested in design (most of the graphics in my projects are of my own production)
-* :mailbox: How to reach me: <a href="https://t.me/milkiwaaays"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y0NzAzbGNwMHVibDRmdmwxN3l1dnFlczF6am9iaXp4cXRxZ2FuaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.gif" align="center" width="19"/></a><a href="https://discordapp.com/users/645568087990599683/"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZkYXBwNDY2b2duMnVudHV5cmlnbnA0dmdlb2o4YW8zaTdzZW8xYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Fo5y4K3GD3RYijvsCS/giphy.gif" width="33" align="center"></a>
+* :mailbox: How to reach me: <a href="https://t.me/milkiwaaays"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y0NzAzbGNwMHVibDRmdmwxN3l1dnFlczF6am9iaXp4cXRxZ2FuaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.gif" align="center" width="19"/></a>
 ___
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -50,4 +50,4 @@ ___
 
 ___
 
-<h2 align="center">Thanks for visiting!❤️</h2>
+<h2 align="">Thanks for visiting!❤️</h2>
